@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+
+#menu-container {
+    position: absolute;
+    width:100%; 
+    height:100%; 
+}
+
+#menu {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
